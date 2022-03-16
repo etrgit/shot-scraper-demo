@@ -1,4 +1,4 @@
-- url: https://news.ycombinator.com
+- url: https://www.hotnews.ro
 #   selector: 'section.secondary'
   wait: 3000
 #   javascript: |
