@@ -1,4 +1,4 @@
-- url: https://edition.cnn.com
+- url: https://news.ycombinator.com
 #   selector: 'section.secondary'
   wait: 3000
 #   javascript: |
@@ -10,4 +10,4 @@
 #     ).forEach(el => el.style.display = "none");
   quality: 50
 #   output: owlsnearme-el-granada.jpg
-  output: cnn.jpg
+  output: test.jpg
